@@ -1,3 +1,5 @@
+package com.cieep;
+
 import java.util.Scanner;
 import java.util.StringTokenizer;
 

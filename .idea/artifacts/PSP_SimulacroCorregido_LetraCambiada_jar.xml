@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PSP_SimulacroCorregido_LetraCambiada:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PSP_SimulacroCorregido_LetraCambiada_jar</output-path>
+    <root id="archive" name="PSP_SimulacroCorregido_LetraCambiada.jar">
+      <element id="module-output" name="PSP_SimulacroCorregido_LetraCambiada" />
+    </root>
+  </artifact>
+</component>
